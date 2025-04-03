@@ -22,7 +22,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://mannanadewusi.github.io/RecipePage/index.html)
 
 ## My process
 
@@ -32,7 +32,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [Boostrap](https://getbootstrap.com/) - For styles
+- [Bootstrap](https://getbootstrap.com/) - For styles
 
 ### What I learned
 
@@ -47,4 +47,4 @@ During this challenge, I focused on creating a responsive recipe page, which tau
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Mannan-x)
+- Frontend Mentor - [mannanadewusi](https://www.frontendmentor.io/profile/mannanadewusi)
